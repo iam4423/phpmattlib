@@ -28,3 +28,7 @@ define('MODE_LIVE',  1);
 define('MODE_BETA',  2);
 define('MODE_ALPHA', 3);
 define('ERROR_MODE', MODE_ALPHA);
+
+/**
+ * THIS IS ALSO AN EDIT
+ */
